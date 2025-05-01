@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=TJA1051TK/3,118
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.1
+Released=2020-02-27 02:55:49
+Downloaded=2025-04-26 02:14:46
+3D=Y

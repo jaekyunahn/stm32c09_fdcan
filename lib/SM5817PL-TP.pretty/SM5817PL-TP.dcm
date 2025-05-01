@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SM5817PL-TP
+D Schottky Barrier Rectifiers
+K
+F https://mccsemi.com/pdf/Products/SM5817PL-SM5819PL(SOD-123FL).pdf
+$ENDCMP
+#
+#End Doc Library

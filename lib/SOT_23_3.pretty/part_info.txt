@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=SQ2318CES-T1_GE3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2024-10-01 04:46:59
+Downloaded=2025-04-26 07:08:00
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2562FD-E_SN
+D 8Mbps CAN Flex. Data Transceiver SOIC8 Microchip MCP2562FD-E/SN, CAN Transceiver 2 Mbit/s, 5 Mbit/s, 8 Mbit/s 1-channel ISO 11898-2, ISO 11898-5, 8-Pin SOIC
+K
+F 
+$ENDCMP
+#
+#End Doc Library

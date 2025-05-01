@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP2562FD-E/SN
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=4.1
+Released=2016-05-24 10:47:15
+Downloaded=2025-04-26 01:41:21
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32C051G8U6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=28
+Version=2.1
+Released=2025-02-20 05:09:36
+Downloaded=2025-04-26 02:05:57
+3D=Y

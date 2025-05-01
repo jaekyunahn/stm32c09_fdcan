@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DLW32SH101XF2L
+D Common Mode Chokes / Filters 1210 50VDC 2.1ohm 115mA AEC-Q200
+K
+F https://www.murata.com/products/productdata/8804914298910/QFLC9127.pdf?1563334209000
+$ENDCMP
+#
+#End Doc Library

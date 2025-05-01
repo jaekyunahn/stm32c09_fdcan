@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=DLW32SH101XF2L
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=1.4
+Released=2020-03-31 07:51:33
+Downloaded=2025-04-26 02:15:54
+3D=Y

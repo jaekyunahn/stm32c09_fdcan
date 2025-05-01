@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQ2318CES-T1_GE3
+D TrenchFET power MOSFET  AEC-Q101 qualified  100 % Rg and UIS tested  Material categorization: for definitions of compliance please see www.vishay.com/doc?99912
+K
+F https://www.vishay.com/docs/62470/sq2318ces.pdf
+$ENDCMP
+#
+#End Doc Library
